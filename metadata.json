@@ -1,0 +1,5 @@
+{
+  "name": "Intelligent Question Generator",
+  "description": "An interactive web application that uses AI to generate study questions from user-provided text. It supports multiple languages and question types, offering a minimalist and responsive user experience.",
+  "requestFramePermissions": []
+}
